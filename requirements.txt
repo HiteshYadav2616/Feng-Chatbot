@@ -1,0 +1,8 @@
+google-genai
+groq
+mistralai
+python-dotenv
+langchain
+langchain-google-genai
+langchain-groq
+langchain-mistralai
